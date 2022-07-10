@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Ghodki</h1>
-- 🔭 I’m currently working on **an awesome project 😉**
+- 🔭 I’m currently working on **an awesome project (will disclose soon) 😉**
 
 - 🌱 I’m currently learning **Flutter**
 
